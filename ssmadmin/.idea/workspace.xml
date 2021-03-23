@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9ba2144-8aa0-4dca-9c9c-94f1ee48e625" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jM7yGwxKNa04yirC74hMZ3WVU6" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ideaproject\feng.ssm\ssm-web\src\main\webapp\pages" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.feng.Controller" />
+      <recent name="com.feng.dao" />
+      <recent name="com.feng.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaproject\feng.ssm\ssm-web\src\main\webapp\pages" />
+      <recent name="F:\ideaproject\feng.ssm\ssm-web\src\main\java\com\feng\Controller" />
+      <recent name="F:\ideaproject\feng.ssm\ssm-web\src\main\webapp" />
+      <recent name="F:\ideaproject\feng.ssm\ssm-dao\src\main\java\com\feng\utils" />
+      <recent name="F:\ideaproject\feng.ssm\ssm-dao\src\main\java\com\feng\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ssm">
+    <configuration name="BCryptPasswordEncoderUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.feng.utils.BCryptPasswordEncoderUtils" />
+      <module name="ssm-dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.feng.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="ssm-dao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in feng.ssm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feng.ssm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.51" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssm_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_feng_ssm" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61529" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+      <item itemvalue="JUnit.All in feng.ssm" />
+      <item itemvalue="Tomcat Server.ssm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.BCryptPasswordEncoderUtils" />
+        <item itemvalue="JUnit.All in feng.ssm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.05806011" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9ba2144-8aa0-4dca-9c9c-94f1ee48e625" name="Default Changelist" comment="" />
+      <created>1603602360143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603602360143</updated>
+      <workItem from="1603602361521" duration="22699000" />
+      <workItem from="1603714225688" duration="6074000" />
+      <workItem from="1603774271643" duration="27835000" />
+      <workItem from="1603846784869" duration="19642000" />
+      <workItem from="1603945414628" duration="2788000" />
+      <workItem from="1604223156131" duration="825000" />
+      <workItem from="1604246598331" duration="236000" />
+      <workItem from="1604331398511" duration="5945000" />
+      <workItem from="1604405964739" duration="6635000" />
+      <workItem from="1604412620968" duration="8673000" />
+      <workItem from="1604473564315" duration="17684000" />
+      <workItem from="1604540184515" duration="20360000" />
+      <workItem from="1604742912097" duration="1551000" />
+      <workItem from="1605081816214" duration="4216000" />
+      <workItem from="1605168582048" duration="604000" />
+      <workItem from="1605416126966" duration="264000" />
+      <workItem from="1607504177799" duration="975000" />
+      <workItem from="1614763759508" duration="2776000" />
+      <workItem from="1615126007231" duration="4817000" />
+      <workItem from="1615217908154" duration="44000" />
+      <workItem from="1615263518397" duration="5000" />
+      <workItem from="1616429064201" duration="4127000" />
+      <workItem from="1616462191246" duration="8337000" />
+      <workItem from="1616471224565" duration="883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616429689974">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1616429689974" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1615217952499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1615217952499" />
+    <state width="1364" height="436" key="GridCell.Tab.0.bottom" timestamp="1616471500755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616471500755" />
+    <state width="1364" height="436" key="GridCell.Tab.0.center" timestamp="1616471500755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1616471500755" />
+    <state width="1364" height="436" key="GridCell.Tab.0.left" timestamp="1616471500755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1616471500755" />
+    <state width="1364" height="436" key="GridCell.Tab.0.right" timestamp="1616471500755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1616471500755" />
+    <state width="1364" height="436" key="GridCell.Tab.1.bottom" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state width="1364" height="436" key="GridCell.Tab.1.center" timestamp="1616471500652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1616471500652" />
+    <state width="1364" height="436" key="GridCell.Tab.1.left" timestamp="1616471500652">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1616471500652" />
+    <state width="1364" height="436" key="GridCell.Tab.1.right" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state width="1364" height="436" key="GridCell.Tab.2.bottom" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state width="1364" height="436" key="GridCell.Tab.2.center" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state width="1364" height="436" key="GridCell.Tab.2.left" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state width="1364" height="436" key="GridCell.Tab.2.right" timestamp="1616471500653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1364" height="436" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1616471500653" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1616433027961">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1616433027961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssm-service/src/main/java/com/feng/service/impl/loginServiceimpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssm-web/src/main/java/com/feng/Controller/SysLogController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
